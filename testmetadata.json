@@ -1,11 +1,10 @@
 {
     "name": "My Test NFT",
     "symbol": "MTNFT",
-    "uri": "https://example.com/metadata.json",
-    "seller_fee_basis_points": 500,
+    "uri": "https://github.com/iamjeet85/solmeta/testmetadata.json",
     "creators": [
       {
-        "address": "YourWalletPublicKey",
+        "address": "Gp5Jo6G9C4QejFYX3LUo79BddWLX6GnPFooJn3rjN7h5",
         "verified": true,
         "share": 100
       }
