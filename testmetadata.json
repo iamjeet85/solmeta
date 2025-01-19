@@ -1,13 +1,37 @@
 {
-    "name": "MyTest",
-    "symbol": "MTNFT",
-    "uri": "https://github.com/iamjeet85/solmeta/testmetadata.json",
-    "creators": [
-      {
-        "address": "4FR6MQVByGVSzHRVXLeTbPgdAtCrzvAEq5PCnrpbbCo7",
-        "verified": true,
-        "share": 100
-      }
-    ]
-  }
-  
+    "name": "HowdyTRUMP",
+    "symbol": "HTRUMP",
+    "uri": "https://github.com/iamjeet85/solmeta/blob/main/testmetadata.json",
+    "seller_fee_basis_points": 0,
+    "description": "The token of Trump’s global celebration. The memecoin dedicated to Trump’s legendary comeback. Uniting communities under bold ideas and iconic vibes. A movement worth holding.",
+    "external_url": "https://howdytrumpmeme.com/",
+    "image": "https://howdytrumpmeme.com/media/70dddb_34fd0782862842eb889749b20bebbcb5~mv2.png/v1/fill/w_52,h_53,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/70dddb_34fd0782862842eb889749b20bebbcb5~mv2.png",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Meme Coin"
+        },
+        {
+            "trait_type": "Community",
+            "value": "Trump Fans"
+        },
+        {
+            "trait_type": "Purpose",
+            "value": "Global Celebration"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://howdytrumpmeme.com/media/70dddb_34fd0782862842eb889749b20bebbcb5~mv2.png/v1/fill/w_52,h_53,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/70dddb_34fd0782862842eb889749b20bebbcb5~mv2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "4FR6MQVByGVSzHRVXLeTbPgdAtCrzvAEq5PCnrpbbCo7",
+                "share": 100
+            }
+        ]
+    }
+}
